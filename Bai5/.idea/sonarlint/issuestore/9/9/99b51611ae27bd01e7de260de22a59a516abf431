@@ -1,0 +1,21 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•áúS
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨Š½Š
+M	java:S106"9Replace this use of System.out or System.err by a logger.(­¤W
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì‡…Éùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßÿÿÁ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òß¦ïşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®äØ½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š¥Àşÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(Æñå{
+6	java:S131#""Add a default case to this switch.(ùé 
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÎøÙÂ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ª‚·ûÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(â³ÿì
+@
+java:S14810"*Remove this unused "money" local variable.(ÅùƒÚ
+P	java:S1251"<This block of commented-out lines of code should be removed.(À¶¸
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ïš‘›
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(‘‚£Åûÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(†‡¾±
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§Åª

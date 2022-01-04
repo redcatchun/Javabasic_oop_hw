@@ -1,0 +1,31 @@
+
+`	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ê¶šÇşÿÿÿÿ
+[	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(ú‘æ¨
+J
+java:S3740."/Provide the parametrized type for this generic.(’’şøÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(èä£ßÿÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¡¦â°ûÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Ú½Óº
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ÆŸ™Á
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ÄÔØûøÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ØÕã
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ÈôƒÉÿÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ß»Á¤ùÿÿÿÿ
+7	java:S131M""Add a default case to this switch.(ÜŸ•
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(¨ğšºøÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(Œñˆ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(„©£
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(š„¤(
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(°¯«ß
+X
+java:S1612y"=Replace this lambda with method reference 'this::addOfficer'.( ”ä³ÿÿÿÿÿ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(Ê ÆÊ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÑéœÿÿÿÿÿ
+W
+java:S4973A"<Strings and Boxed types should be compared using "equals()".(Ê¶šÇşÿÿÿÿ
+R
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(ú‘æ¨
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èğØ

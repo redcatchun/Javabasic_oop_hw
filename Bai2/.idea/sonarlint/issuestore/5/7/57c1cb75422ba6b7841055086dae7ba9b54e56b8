@@ -1,0 +1,42 @@
+
+l	java:S116"RRename this field "MAXTYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©åŞâúÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(©åŞâúÿÿÿÿ
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(â„
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(—±›æúÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÆŸ™Á
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Ôá¤Ÿıÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(‘ŞôÌøÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(¼É½¾
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(÷ß®‹
+7	java:S131B""Add a default case to this switch.(ÜŸ•
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(¨ğšºøÿÿÿÿ
+m
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(â×ìùúÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ÖÏòá
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(åğ¦æÿÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(ÖôÄê
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(Ê ÆÊ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(úš»€ÿÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(é»æíşÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(–ØïÍ
+2
+java:S3626Š"Remove this redundant jump.(ûÁİ…
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(Ò°¿úÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(™Ù®‚ûÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(‹äğŞ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(êß¯Àùÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(µ‰“¼ùÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(¶ó°ş
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(¯áÀÛùÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(«ô•¥ıÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(ÿ¸ÎÕ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(ÖôÄê
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(úó²¡
+]
+java:S1192:"GDefine a constant instead of duplicating this literal "Enter " 4 times.(¼É½¾
+e
+java:S1192f"HDefine a constant instead of duplicating this literal "Invalid" 3 times.(‡¹Ú8ï· µá/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®©¾„úÿÿÿÿ

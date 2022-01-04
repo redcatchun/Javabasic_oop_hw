@@ -1,0 +1,10 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8™¸÷Šâ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÏ¬ˆ8»âöŠâ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î”ˆ8ßøŠâ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·£Å¿ùÿÿÿÿ8…”úŠâ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½€ü’şÿÿÿÿ8®ª€‹â/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óè³ıÿÿÿÿ8îÕƒ‹â/
+P
+java:S1128"5Remove this unused import 'exception.EmailException'.(˜Ò‘ôÿÿÿÿÿ

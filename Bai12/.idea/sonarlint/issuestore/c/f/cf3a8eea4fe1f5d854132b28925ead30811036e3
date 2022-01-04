@@ -1,0 +1,28 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÂŽ†ñþÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(î½œþøÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Æö½ãÿÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÐÂ¡Âùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ÓÀ¨—øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(¬ÊÍ€úÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¼áŽÉ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Æ¦ñÊ
+<
+java:S1168J"&Return an empty array instead of null.(¥¹ï
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Úž•—ÿÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ž«§Ýúÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(šùØ¹üÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(µ‹ÚÓ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(®•œüùÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ºÔ‡ˆÿÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(¡Öìâ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(›¦£ˆýÿÿÿÿ
+N	java:S106„"9Replace this use of System.out or System.err by a logger.(äØÒ;
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Z
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(ßÎ•¼øÿÿÿÿ
+W
+java:S4973C"<Strings and Boxed types should be compared using "equals()".(â¹ùƒûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì£ý‰øÿÿÿÿ

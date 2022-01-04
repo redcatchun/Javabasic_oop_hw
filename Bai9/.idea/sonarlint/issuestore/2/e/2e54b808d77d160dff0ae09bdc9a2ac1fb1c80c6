@@ -1,0 +1,41 @@
+
+`	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(–ã×øÿÿÿÿ
+h	java:S1160"SRename this field "EDITDATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êæˆ¶
+l	java:S1161"RRename this field "NEWDATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êãùùÿÿÿÿ
+7
+java:S11700"!Make this final field static too.(êæˆ¶
+<
+java:S11701"!Make this final field static too.(­êãùùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Óï–ß
+V	java:S125"<This block of commented-out lines of code should be removed.(¨‰„²úÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(›×ı
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(½ì
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÛÒ®
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ãí¦–ûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ÙŒµÖüÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(À›¤ì
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(í‹Ë
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Äšñìüÿÿÿÿ
+M	java:S106e"9Replace this use of System.out or System.err by a logger.(®¦z
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ë×ø´
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(Ô¬­¬ÿÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(›×ı
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÖ‹
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(íÀÆí
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(éœ‹Ú
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¨ÉÒ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(›×ı
+O	java:S106"9Replace this use of System.out or System.err by a logger.(„Ò–
+T	java:S106"9Replace this use of System.out or System.err by a logger.(™ë¯ıÿÿÿÿ
+N	java:S106¢"9Replace this use of System.out or System.err by a logger.(±ˆ§
+
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(Ô¬­¬ÿÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(›×ı
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(ô«´Àøÿÿÿÿ
+
+java:S1192k"dDefine a constant instead of duplicating this literal "Cong to tren khong co khach su dung" 3 times.(Ô¬­¬ÿÿÿÿÿ
+c
+java:S1192 "MDefine a constant instead of duplicating this literal "Khong hop le" 4 times.(›×ı
+{
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "newMeter".(Ş™Í üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÜ†ûøÿÿÿÿ

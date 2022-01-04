@@ -1,0 +1,19 @@
+
+Z	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ó¨õøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úÎÓ¬şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ëªãv
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ñ˜Å÷ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ûòÇÍüÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Í‘ŞÓşÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(šùØ¹üÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Ü‘óü
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(œò“Áùÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¯ä¿Ë
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(†ıÉ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(îÓäÉ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(õÄ¶ıÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(”ôáßşÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(±üñÁÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÆ°èúÿÿÿÿ
